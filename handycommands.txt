@@ -1,1 +1,1 @@
-youtube-dl -f bestaudio --extract-audio --audio-format mp3 --write-thumbnail --add-metadata
+youtube-dl -f bestaudio -s --audio-format mp3 --write-thumbnail --add-metadata
